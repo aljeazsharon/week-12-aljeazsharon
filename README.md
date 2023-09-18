@@ -4,5 +4,6 @@
 ## Build a multi-step registration form using:
   1. Formik and Yup as client-side validation
   2. AntDesign as Styling
-## Deploy Link:
+## Deploy Link with netlify:
+Access this project deployment: https://lucky-capybara-833a08.netlify.app/
 
